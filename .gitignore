@@ -239,4 +239,3 @@ gradle-app.setting
 
 #All db files#
 *.sql
-*.xml
